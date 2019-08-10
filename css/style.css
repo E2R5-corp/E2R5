@@ -138,7 +138,7 @@ color: #fff;
 
 .link{
 	padding:15px 35px;
-	background:#7cc576;
+	background:#152a8c;
 	color:#fff !important;
 	font-size:16px;
 	font-weight:400;
@@ -154,12 +154,12 @@ color: #fff;
 }
 .link:hover {
 	text-decoration:none;
-	color:#7cc576 !important;
+	color:#152a8c !important;
 	background:#fff;
 }
 
 .link:active, .link:focus {
-	background: #7cc576;
+	background: #152a8c;
 	text-decoration:none;
 	color:#fff !important;
 }
@@ -198,7 +198,7 @@ color: #fff;
 
 .main-nav li a:hover{ 
 	text-decoration:none;
-	color: #7cc576;
+	color: #152a8c;
 }
 
 .small-logo{ 
@@ -284,7 +284,7 @@ color: #fff;
 .Learn-More{
 	display:inline-block;
 	padding:0 5px 0 0;
-	color:#7cc576;
+	color:#152a8c;
 	font-size:16px;
 	text-transform:uppercase;
 	font-family: 'Montserrat', sans-serif;
@@ -333,7 +333,7 @@ color: #fff;
 	-webkit-transition:all 0.3s ease-in-out;
 }
 .Portfolio-nav li a:hover{
-	background:#7cc576;
+	background:#152a8c;
 	color:#fff;
 	text-decoration:none;
 }
@@ -364,7 +364,7 @@ color: #fff;
 }
 
 .Portfolio-nav li a.current{
-	background:#7cc576;
+	background:#152a8c;
 	color:#fff;
 	text-decoration:none;
 }
@@ -394,7 +394,7 @@ img {
 /* Clients
 ---------------------------------*/
 .client-part{
-	background:url(../img/section-bg1.jpg) center center no-repeat;
+	background:url(../img/section-bg1.png) center center no-repeat;
 	background-size:cover;
 	padding:55px 0;
 	text-align:center;
@@ -438,13 +438,13 @@ img {
 	width:68px;
 	height:68px;
 	margin:0 auto;
-	border:2px solid #7cc576;
+	border:2px solid #fff;
 	border-radius:50%;
 	display:block;
 	line-height:68px;
 	text-align:center;
 	font-size:27px;
-	color:#7cc576;
+	color:#fff;
 	cursor: pointer;
 	transition:all 0.3s ease-in-out;
 	-moz-transition:all 0.3s ease-in-out;
@@ -457,7 +457,7 @@ border: 2px solid #fff;
 }
 
 .c-logo-part{
-	background:#7cc576;
+	background:#152a8c;
 	padding:25px 0;
     filter: alpha(opacity=60);
 }
@@ -580,6 +580,19 @@ border: 2px solid #fff;
 .team-leader ul li a.fa-google-plus:hover{
 	color:#dd4b39;
 }
+.team-leader ul li a.fa-youtube:hover{
+	color: #f00;
+}
+.team-leader ul li a.fa-github:hover{
+	color: #24292e;
+}
+.team-leader ul li a.fa-linkedin:hover{
+	color: #0077b5;
+}
+.team-leader ul li a.fa-instagram:hover{
+	color: #8a3ab9;
+}
+
 
 /* Talk Business
 ---------------------------------*/
@@ -676,6 +689,18 @@ border: 2px solid #fff;
 .dribbble a:hover {
 	background: #ea4c89;
 }
+.youtube a:hover{
+	background: #f00;
+}
+.github a:hover{
+	background: #24292e;
+}
+.linkedin a:hover{
+	background: #0077b5;
+}
+.instagram a:hover {
+	background: #8a3ab9;
+}
 
 .form{
 	margin:0 66px 0 30px;
@@ -696,7 +721,7 @@ border: 2px solid #fff;
 	-webkit-transition:all 0.3s ease-in-out;
 }
 .input-text:focus {
-	border: 1px solid #7cc576;
+	border: 1px solid #152a8c;
 	outline:0;
 	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(124, 197, 118, 0.3);
 	-moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(124, 197, 118, 0.3);	
@@ -711,7 +736,7 @@ border: 2px solid #fff;
 .input-btn{
 	width:175px;
 	height:50px;
-	background:#7cc576;
+	background:#152a8c;
 	border-radius:4px;
 	color:#ffffff;
 	font-size:14px;
@@ -738,8 +763,8 @@ border: 2px solid #fff;
 }
 
 #sendmessage {
-    color: #7cc576;
-    border:1px solid #7cc576;
+    color: #152a8c;
+    border:1px solid #152a8c;
     display:none;
     text-align:center;
     padding:15px;
@@ -779,7 +804,7 @@ border: 2px solid #fff;
 	text-align:center;
 }
 .copyright a, .credits a{
-	color:#7cc576;
+	color:#152a8c;
 	font-weight:600;
 	text-decoration: none;
 	transition:all 0.3s ease-in-out;
@@ -808,7 +833,7 @@ border: 2px solid #fff;
 }
 
 .res-nav_click:hover, .res-nav_click:active, .res-nav_click:focus {
-	color: #7cc576 !important;
+	color: #152a8c !important;
 }
 
 .portfolioContainer{
