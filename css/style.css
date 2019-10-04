@@ -562,9 +562,9 @@ img {
 }
 
 .team-leader-box {
-	width: 30.66%;
+	width: 22%;
 	margin-right: 3.82979%;
-	height: 490px;
+	height: 364px;
 	overflow: hidden;
 	text-align: center;
 	float: left;
@@ -575,7 +575,7 @@ img {
 	display: block;
 }
 
-.team-leader-box:nth-of-type(3n+0) {
+.team-leader-box:nth-of-type(4n+0) {
 	margin: 0;
 }
 

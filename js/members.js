@@ -41,5 +41,11 @@ markers = [
     "icon": "minion_wave.png",
     "lat": 45.188529,
     "lng": 5.724524
+  },
+  {
+    "name": "Jjacobi",
+    "url": "https://www.linkedin.com/in/jean-jacobi-a19079142/",
+    "lat": 37.774929,
+    "lng": -122.419416
   }
 ];
