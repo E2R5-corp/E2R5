@@ -23,6 +23,7 @@ markers = [
     "name": "Giro",
     "desc": "Founding <a href='https://learneed.com/' target='_blank'>Learneed.com</a>",
     "url": "https://www.linkedin.com/in/thmsgiraud/",
+    "icon": "LN.png",
     "lat": 35.881105,
     "lng": 14.448138
   },
@@ -33,5 +34,12 @@ markers = [
     "url": "https://www.linkedin.com/in/jordane-gengo-388626137/",
     "lat": 60.180962,
     "lng": 24.958573
+  },
+  {
+    "name": "Glouyot",
+    "url": "https://www.linkedin.com/in/guillaume-louyot-9230ba13a",
+    "icon": "minion_wave.png",
+    "lat": 45.188529,
+    "lng": 5.724524
   }
 ];
