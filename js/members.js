@@ -7,11 +7,11 @@ markers = [
   },
   {
     "name": "Glandais Thibault",
-    "desc": "FullStack Developper at <a href='https://www.dirox.net' target='_blank'>Dirox</a> in HCMC, Vietnam",
+    "desc": "Co-Founder of <a href='https://graphene-bsm.com' target='_blank'>Graphene-BSM</a>",
     "icon": "tglandais.png",
-    "url": "https://www.linkedin.com/in/thibault-glandais/",
-    "lat": 10.792753,
-    "lng": 106.718037
+    "url": "http://glandais.fr",
+    "lat": 48.004679,
+    "lng": 0.196517
   },
   {
     "name": "Anroche",
