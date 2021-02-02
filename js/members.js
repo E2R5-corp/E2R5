@@ -47,5 +47,11 @@ markers = [
     "url": "https://www.linkedin.com/in/jean-jacobi-a19079142/",
     "lat": 37.774929,
     "lng": -122.419416
+  },
+  {
+    "name": "Fgrea",
+    "url": "https://www.linkedin.com/in/florent-grea-3a9b13137/",
+    "lat": 45.7796714,
+    "lng": 4.7507467
   }
 ];
